@@ -3,8 +3,8 @@
 .. slug: on-contribution
 .. date: 2014-12-17T16:23:02+05:30
 .. tags: Blog, Contribution, Python
-.. link:
-.. description:
+.. link: 
+.. description: 
 .. type: text
 -->
 
